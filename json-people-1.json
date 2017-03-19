@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Andy",
+    "occupation" : "student",
+    "about": {
+      "likes": ["coding", "designing"],
+      "dislikes": ["tequila", "reality tv"]
+    }
+  },
+  {
+    "name": "Samantha",
+    "occupation" : "property manager",
+    "about": {
+      "likes": ["cats", "chocolate"],
+      "dislikes": ["messes"]
+    }
+  },
+  {
+    "name": "Owen",
+    "occupation" : "lawyer",
+    "about": {
+      "likes": ["classic cars"],
+      "dislikes": ["spicy food", "cats"]
+    }
+  }
+]

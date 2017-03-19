@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Laura",
+    "occupation" : "teacher",
+    "about": {
+      "likes": ["painting"],
+      "dislikes": ["smoking"]
+    }
+  },
+  {
+    "name": "Alex",
+    "occupation" : "delivery driver",
+    "about": {
+      "likes": ["money", "travel"],
+      "dislikes": ["phone bills", "cheap people"]
+    }
+  },
+  {
+    "name": "Jennifer",
+    "occupation" : "cashier",
+    "about": {
+      "likes": ["concerts"],
+      "dislikes": ["bad management", "politics"]
+    }
+  }
+]
